@@ -6,6 +6,7 @@ public class ex1 {
 
     public static int add(int x, int y) {
 
+        System.out.println("hello world!");
         return x + y;
     }
 }
